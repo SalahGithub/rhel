@@ -1,0 +1,3 @@
+/etc/ssh/sshd_config
+/root/.tmux.conf
+/etc/bashrc
